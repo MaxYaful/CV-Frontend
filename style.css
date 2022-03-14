@@ -1,0 +1,63 @@
+body{
+    display: flex;
+    background-color: white;
+    font-family: 'Fredoka', sans-serif;
+}
+*{
+    box-sizing: border-box;
+}
+
+#principal-lateral{
+    color: #F2F2F2;
+    background-color: #8B8B8C;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    justify-content: space-between;
+    border-right:solid 3px #268C82 ;
+}
+
+
+
+#datos {
+    font-size: small;
+    text-align: justify;
+    color: #8EBFBF;
+}
+#mainid{
+    flex-direction: column;
+}
+
+#sobremi {
+    text-align: center;
+    font-size: medium;
+    background-color: #8B8B8C;
+    color: #F2F2F2;
+    padding-top: 30px;
+    border-bottom: solid 3px #268C82;
+    font-style: italic;  
+}
+
+
+.contenido3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+
+}
+
+#educacion img{
+    width: 30px;
+    height: 40px;
+   
+}
+
+#educurso {
+    display: flex;
+    justify-content: space-around; 
+    font-style: italic;
+    font-size: small;
+}
+
+body i{
+    color: #8EBFBF;
+}
